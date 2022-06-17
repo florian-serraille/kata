@@ -9,5 +9,8 @@
         <module name="fizzbuzz" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="kata-parent-project" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
